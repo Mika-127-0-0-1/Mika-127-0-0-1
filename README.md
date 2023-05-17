@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mika-127-0-0-1
-- 👀 I’m interested in embedded coding, web development and other codeing projects.
-- 🌱 I’m currently stydying @NWU PUKKE for Computer and Electronic Engineer
+- 👀 I’m interested in embedded coding, web development and other coding projects.
+- 🌱 I’ve recently completed my studies as a Computer and Electronic Engineer @NWU PUKKE  
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: mika.sidwell@gmail.com
 
