@@ -4,7 +4,7 @@
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: mika.sidwell@gmail.com
 
-<a href="https://app.daily.dev/mika87"><img src="https://api.daily.dev/devcards/v2/GMlAskrRTjRz2pYVpnxv4.png?type=default&r=lb6" width="356" alt="Mika's Dev Card"/></a>
+<a href="https://app.daily.dev/mika87"><img src="devcard.png" width="356" alt="Mika's Dev Card"/></a>
 
 <!---
 Mika-127-0-0-1/Mika-127-0-0-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
