@@ -1,7 +1,7 @@
 Hi 👋 My name is Mika Sidwell
 =============================
 
-Junior Computer and Electronic Engineer
+👨‍💻 Electronic & Computer Engineer | Embedded Systems & Hardware Design Enthusiast | North-West University Alumnus | Passionate About Safety & Innovation
 ---------------------------------------
 
 I graduated from Northwest University in Potchefstroom in 2024. Here is a little of what I do on a daily:
