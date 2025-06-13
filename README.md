@@ -4,7 +4,14 @@ Hi 👋 My name is Mika Sidwell
 Junior Computer and Electronic Engineer
 ---------------------------------------
 
-I graduated from Northwest University in Potchefstroom in 2024. I also started working for a solar company, Eneframe Batteries, providing solar installation services alongside their lithium iron phosphate battery manufacturing. We ship the lithium cells from China, but everything else, especially the battery management system (BMS), is designed and made locally. I have worked on the low-level embedded code to improve the batteries' operation and add new features such as a programmable auxiliary relay and the integration of a CAN bus for CAN communication to various inverters. Furthermore, I love coding websites as a hobby. Watch this space to see the amazing projects.
+I graduated from Northwest University in Potchefstroom in 2024. Here is a little of what I do on a daily:
+* Developing embedded firmware for Lithium (LiFePO₄) Battery Management Systems (BMS), focused on safety, performance, implementing new features and communication protocols, and charge/discharge efficiency.
+* Supporting the design and implementation of solar energy systems, including system diagnostics, firmware calibration, and solar inverter integration.
+* Led a project to retrofit a golf cart from lead-acid to LiFePO₄ batteries, including BMS integration, accessory upgrades, and solar charging support.
+* Provided remote and on-site support for residential and commercial solar systems, including panel and battery health assessments, firmware updates, and troubleshooting.
+* Facilitated end-to-end resolution of equipment faults and logistics with service centers, ensuring minimal downtime for clients.
+* Contributed to internal technical documentation and collaborated with senior engineers on PCB testing and electronic assembly.
+Furthermore, I love coding websites as a hobby. Watch this space to see the amazing projects.
 
 *   🌍  I'm based in Gauteng, South Africa
 *   ✉️  You can contact me at [mika.sidwell@gmail.com](mailto:mika.sidwell@gmail.com)
